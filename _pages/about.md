@@ -23,8 +23,10 @@ When I am not strengthening my career skills, I spend my free time playing music
 
 I grew up in Chagrin Falls, OH, attending Kenston Schools and moved down to Columbus when I graduated high school right before heading to Dayton for college at the University of Dayton.
 
-Feel free to check out some of my projects/experience on this website, on GitHub, and on my LinkedIn below:
+Feel free to check out some of my projects/experience on this website, on my LinkedIn, and on my GitHub below:
+
 [LinkedIn](https://www.linkedin.com/in/joshua-masters-75609b238/)
+
 [GitHub](https://github.com/mastersj5)
 
 
