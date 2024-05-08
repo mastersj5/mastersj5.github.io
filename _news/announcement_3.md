@@ -1,8 +1,11 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
-inline: true
+title: Graduated from the University of Dayton! :tada: :partying_face: :sparkles:
+date: 2024-05-05 07:59:00-0400
+inline: false
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+ Graduated from the University of Dayton with a B.S. in Computer Science! I graduated with Cum Laude, with a Concentration in AI/Data Science, and a Minor in Music (vocal, guitar, & piano). :tada: :partying_face: :sparkles: 
+
+---
