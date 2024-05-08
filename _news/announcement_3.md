@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Graduated from the University of Dayton! :tada: :partying_face: :sparkles:
+title: Graduated from the University of Dayton! 
 date: 2024-05-05 07:59:00-0400
 inline: false
 related_posts: false
