@@ -1,12 +1,12 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 2
-cv_pdf: example_pdf.pdf
+cv_pdf: resume.pdf
 description: 
-Here is a detailed page containing information about my academic and professional history.
+Detailed page containing information about my academic and professional history.
 toc:
   sidebar: left
 ---
