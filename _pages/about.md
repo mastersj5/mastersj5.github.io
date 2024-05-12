@@ -2,28 +2,29 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: Welcome to my portfolio website! 
 profile:
   align: center
   image: joshua.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Dayton, OH</p>
+    <p>"Fear is a friend who is misunderstood." - John Mayer ![Music Favicon](image.png)</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false  # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My name is Joshua Masters, I am a recent Computer Science Graduate who is seeking a software developer role in tech or biomedical industries. I have primary experience in web application development that were developed with AGILE methodoligies along with Git and Jira tools to ensure efficient sprints/cycles.
+My name is Joshua Masters, I am a recent Computer Science Graduate who is seeking a software developer role in tech or biomedical industries. I have primary experience in web application development that were developed with AGILE/SCRUM methodoligies along with Git and Jira tools to ensure efficient sprint cycles.
 
 When I am not strengthening my career skills, I spend my free time playing music in the form of voice, guitar, and piano. I have plenty of fun facts from my ability to solve a rubik's cube in under two minutes to my love of animals that stemmed from raising bunnies in 4-H. 
 
-I grew up in Chagrin Falls, OH, attending Kenston Schools and moved down to Columbus when I graduated high school right before heading to Dayton for college at the University of Dayton.
+I grew up in Chagrin Falls, OH, attending Kenston Schools and moved down to Columbus when I graduated high school right before heading to Dayton for college at the University of Dayton. 
 
-Feel free to check out some of my projects/experience on this website, on my LinkedIn, and on my GitHub below:
+I am now graduated from the University of Dayton and I am eager to jump into the world of software development with the skills that I developed during my time in and out of school.
+
+Feel free to check out some of my projects/experiences on this website, on my LinkedIn, and on my GitHub below:
 
 [LinkedIn](https://www.linkedin.com/in/joshua-masters-75609b238/)
 
