@@ -15,13 +15,19 @@
       institution: University of Dayton, Dayton, Ohio
       year: 2020 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Graduated with Cum Laude
+        - GPS 3.57
+        - title: Clubs/Extracurriculars
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-
+            - Vice President of The Audio Pilots (A Cappella Group)
+            - Vice President of UD Chorale (Choir)
+            - Team Captain of UD eSports Rocket League Team
+    - title: High School Diploma
+      institution: Kenston High School, Bainbridge, Ohio
+      year: 2016 - 2020
+      description:
+        - Graduated with Honors
+        - GPA 4.0
 
 - title: Experience
   type: time_table
@@ -89,4 +95,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Singing, Guitar, Piano, Rubik's Cube, The Witcher, Jimi Hendrix, RPDR, and much mores.
