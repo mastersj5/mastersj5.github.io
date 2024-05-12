@@ -2,13 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: Welcome to my portfolio website! 
+subtitle: Welcome to my portfolio website!
+favicon: /assets/img/favicon.ico
 profile:
   align: center
-  image: joshua.png
+  image: daytonheadshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>"Fear is a friend who is misunderstood." - John Mayer ![Music Favicon](image.png)</p>
+    <p>"Fear is a friend who's misunderstood."</p>
 
 news: false # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
