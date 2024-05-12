@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mastersj5
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - mastersj5/mastersj5.github.io
+  - Financial-Exchange/Financial-Exchange.github.io
+
