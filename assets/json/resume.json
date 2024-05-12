@@ -16,6 +16,16 @@
     },
     "profiles": [
       {
+        "network": "LinkedIn",
+        "username": "joshua-masters-75609b238",
+        "url": "https://www.linkedin.com/in/joshua-masters-75609b238/"
+      },
+      {
+          "network": "GitHub",
+          "username": "mastersj5",
+          "url": "https://github.com/mastersj5"
+      },
+      {
         "network": "Twitter",
         "username": "koolzero11",
         "url": "https://twitter.com/koolzero11"
@@ -24,25 +34,28 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Ohio Department of Transportation",
+      "position": "Hybrid Telework College Intern",
+      "url": "https://www.transportation.ohio.gov",
+      "startDate": "2023-06-20",
+      "endDate": "Present",
+      "summary": "Provided technical support for ODOT's Civil Rights & Labor Construction Contracting System, resolving user inquiries and utilizing SQL for efficient data retrieval. ",
+      "highlights": ["Issue Resolution", "SQL", "Data Retrieval"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "HANDS HEARTS & HOMES OUTREACH SHARING CHRISTS LOVE",
+      "location": "Cleveland, OH", 
+      "position": "Outreach Volunteer",
+      "url": null,  
+      "startDate": "2016-09-01", 
+      "endDate": "2020-02-01",
+      "summary": "Provided weekly meals and essential supplies to over 100 homeless and disadvantaged individuals in Downtown Cleveland.",
+      "highlights": [
+        "Prepared and distributed 100+ lunches each week.",
+        "Purchased and provided necessities like clothing, toiletries, and backpacks."
+    ]
     }
   ],
   "education": [
@@ -60,11 +73,11 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Graduated with Cum Laude Honors",
+      "date": "2024-05-05",
+      "awarder": "University of Dayton College of Arts and Sciences",
+      "url": "https://udayton.edu/artssciences/about/student-awards/index.php",
+      "summary": "'Summa cum Laude - if the academic degree program grade point average is greater than or equal to 3.90.''"
     }
   ],
   "certificates": [
@@ -136,16 +149,68 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming Languages",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "Java",
+        "SQL",
+        "JavaScript",
+        "C++",
+        "HTML",
+        "LISP"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "keywords": [
+        "React",
+        "Express",
+        "Socket.IO",
+        "Node.js"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "Jira",
+        "Docker",
+        "Heroku",
+        "Mermaid",
+        "PlantUML",
+        "Markdown",
+        "Draw.IO"
+      ]
+    },
+    {
+      "name": "Other",
+      "keywords": [
+        "Python Libraries"
+      ]
+    },
+    {
+      "name": "Planning to Learn",
+      "keywords": [
+        "Flask",
+        "CSS (Website Building)",
+        "C#",
+        "GoDot"
+      ]
+    },
+    {
+      "name": "Additional Skills",
+      "keywords": [
+        "Data Analysis",
+        "Hardware: PC Building, Troubleshooting",
+        "Teamwork & Communication",
+        "Customer Support: Tech Support"
       ]
     }
   ],
@@ -153,43 +218,55 @@
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
+      "icon": "fa-solid fa-flag-usa"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Artificial Intelligence & Machine Learning",
+      "icon": "fa-solid fa-brain",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+          "Artificial Intelligence (AI)",
+          "Machine Learning (ML)",
+          "Large Language Models (LLMs)",
+          "Neural Networks",
+          "Natural Language Processing (NLP)",
+          "Deep Learning",
+          "Neuralink"
+      ]
+    },
+    {
+      "name": "Music",
+      "icon": "fa-solid fa-music",
+      "keywords": [
+        "Choir",
+        "A Cappella",
+        "Guitar",
+        "Blues/Jazz/Funk",
+        "Piano"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Nicholas Stiffler",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Instructor and Postdoctoral Researcher at the University of Dayton."
     },
     {
-      "name": "Professor John Doe",
+      "name": "LinkedIn",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "https://www.linkedin.com/in/nicholas-stiffler-1b1b3b1b/"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Financial Exchange - Capstone II Project",
+      "summary": "The goal of this project is to build a functioning financial exchange with client access. In order to do this, it must be fair, fast, deterministic, reliable, redundant, have a full audit trail, and be secure for clients.",
+      "highlights": ["Financial Exchange", "React", "Spring", "Java", "JavaScript", "MongoDB", "Docker", "Jira", "Git", "GitHub", "Draw.IO", "Mermaid", "PlantUML", "Markdown", "Node.js", "HTML", "CSS",  "Python"],
+      "startDate": "2024-01-08",
+      "endDate": "2024-04-17",
+      "url": "https://ud-cps491-24s-team.github.io/Team02-FinancialExchange-Public/"
     }
   ]
 }

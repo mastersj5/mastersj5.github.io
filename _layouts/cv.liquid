@@ -95,16 +95,22 @@ layout: default
                   {% include resume/awards.liquid %}
                 {% when 'skills' %}
                   {% include resume/skills.liquid %}
+                {% comment %}
                 {% when 'publications' %}
                   {% include resume/publications.liquid %}
                 {% when 'languages' %}
+                {% endcomment %}
                   {% include resume/languages.liquid %}
                 {% when 'interests' %}
                   {% include resume/interests.liquid %}
+                {% comment %}
                 {% when 'certificates' %}
                   {% include resume/certificates.liquid %}
+                {% endcomment %}
                 {% when 'references' %}
                   {% include resume/references.liquid %}
+                {% when 'profiles' %}
+                  {% include resume/profiles.liquid %}
                 {% else %}
 
               {% endcase %}
