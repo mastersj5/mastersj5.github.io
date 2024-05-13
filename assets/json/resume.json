@@ -14,23 +14,6 @@
       "countryCode": "US",
       "region": "Ohio"
     },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "joshua-masters-75609b238",
-        "url": "https://www.linkedin.com/in/joshua-masters-75609b238/"
-      },
-      {
-          "network": "GitHub",
-          "username": "mastersj5",
-          "url": "https://github.com/mastersj5"
-      },
-      {
-        "network": "Twitter",
-        "username": "koolzero11",
-        "url": "https://twitter.com/koolzero11"
-      }
-    ]
   },
   "projects": [
     {
@@ -85,7 +68,7 @@
       "date": "2024-05-05",
       "awarder": "University of Dayton College of Arts and Sciences",
       "url": "https://udayton.edu/artssciences/about/student-awards/index.php",
-      "summary": "Cum Laude - if the academic degree program grade point average is greater than or equal to 3.50 but less than 3.70.'"
+      "summary": "'Cum Laude - if the academic degree program grade point average is greater than or equal to 3.50 but less than 3.70.'"
     }
   ],
   "work": [
@@ -268,6 +251,23 @@
       "name": "LinkedIn",
       "icon": "fa-solid fa-thumbtack",
       "reference": "https://www.linkedin.com/in/nicholas-stiffler-1b1b3b1b/"
+    }
+  ],
+  "profiles": [
+    {
+      "network": "LinkedIn",
+      "username": "joshua-masters-75609b238",
+      "url": "https://www.linkedin.com/in/joshua-masters-75609b238/"
+    },
+    {
+        "network": "GitHub",
+        "username": "mastersj5",
+        "url": "https://github.com/mastersj5"
+    },
+    {
+      "network": "Twitter",
+      "username": "koolzero11",
+      "url": "https://twitter.com/koolzero11"
     }
   ]
 }
