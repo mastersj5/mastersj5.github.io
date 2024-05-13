@@ -49,7 +49,10 @@ layout: default
     {% endif %}
 
     <!-- Latest posts -->
+    {% comment %}
     {% if site.latest_posts.enabled %}
+    {% endcomment %}
+    {% if page.latest_posts %}
       <h2>
         <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
       </h2>

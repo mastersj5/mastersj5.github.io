@@ -40,6 +40,30 @@
       "startDate": "2024-01-08",
       "endDate": "2024-04-17",
       "url": "https://ud-cps491-24s-team.github.io/Team02-FinancialExchange-Public/"
+    },
+    {
+        "name": "Messenger Application",
+        "summary": "Developed a P2P messenger application from the ground up on a team of four.",
+        "highlights": ["NodeJS", "Express", "SocketIO", "MongoDB", "Heroku", "Git", "GitHub", "AGILE/SCRUM", "JIRA"],
+        "startDate": "2023-09-01",
+        "endDate": "2023-05-01",
+        "url": "https://horizon-messenger-00d0292d47c0.herokuapp.com"
+    },
+    {
+        "name": "Twitter API Experimentation",
+        "summary": "Developed Python (PyCharm) programs to interact with the Twitter API, extracting and analyzing data to generate meaningful insights.",
+        "highlights": ["Python", "PyCharm", "Twitter API", "Data Analysis"],
+        "startDate": "2022-01-01",
+        "endDate": "2022-05-01",
+        "url": "https://github.com/mastersj5/Twitter-API-Experimentation"
+    },
+    {
+        "name": "Detecting Fake News with Machine Learning",
+        "summary": "Built a fake news classifier system using a TensorFlow neural network model and industry-standard Python libraries.",
+        "highlights": ["Machine Learning", "TensorFlow", "Python", "Kaggle Dataset", "Neural Network Model" "Fake News Detection"],
+        "startDate": "2023-01-01",
+        "endDate": "2023-05-01",
+        "url": "https://github.com/mastersj5/fake-news-detection/blob/main/CPS349FinalProject.ipynb"
     }
   ],
   "education": [
