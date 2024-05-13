@@ -15,7 +15,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: software-developer, jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: /assets/img/favicon.ico # 💻 mastersj5.github.io\assets\img\mstile-150x150.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon-32x32.png # 💻 mastersj5.github.io\assets\img\mstile-150x150.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://mastersj5.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
