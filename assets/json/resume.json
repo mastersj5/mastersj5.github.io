@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Joshua I. Masters",
+    "name": "Joshua Masters",
     "label": "Junior Software Developer",
     "image": "",
     "email": "masters.josh2019@gmail.com",
@@ -14,6 +14,23 @@
       "countryCode": "US",
       "region": "Ohio"
     },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "joshua-masters-75609b238",
+        "url": "https://www.linkedin.com/in/joshua-masters-75609b238/"
+      },
+      {
+          "network": "GitHub",
+          "username": "mastersj5",
+          "url": "https://github.com/mastersj5"
+      },
+      {
+        "network": "Twitter",
+        "username": "koolzero11",
+        "url": "https://twitter.com/koolzero11"
+      }
+    ]
   },
   "projects": [
     {
@@ -43,7 +60,7 @@
     {
         "name": "Detecting Fake News with Machine Learning",
         "summary": "Built a fake news classifier system using a TensorFlow neural network model and industry-standard Python libraries.",
-        "highlights": ["Machine Learning", "TensorFlow", "Python", "Kaggle Dataset", "Neural Network Model" "Fake News Detection"],
+        "highlights": ["Machine Learning", "TensorFlow", "Python", "Kaggle Dataset", "Neural Network Model", "Fake News Detection"],
         "startDate": "2023-01-01",
         "endDate": "2023-05-01",
         "url": "https://github.com/mastersj5/fake-news-detection/blob/main/CPS349FinalProject.ipynb"
@@ -97,7 +114,7 @@
     ]
     }
   ],
-  "certificates<test>": [
+  "certificates<excluded>": [
     {
       "name": "Machine Learning",
       "date": "2018-01-01",
@@ -251,23 +268,6 @@
       "name": "LinkedIn",
       "icon": "fa-solid fa-thumbtack",
       "reference": "https://www.linkedin.com/in/nicholas-stiffler-1b1b3b1b/"
-    }
-  ],
-  "profiles": [
-    {
-      "network": "LinkedIn",
-      "username": "joshua-masters-75609b238",
-      "url": "https://www.linkedin.com/in/joshua-masters-75609b238/"
-    },
-    {
-        "network": "GitHub",
-        "username": "mastersj5",
-        "url": "https://github.com/mastersj5"
-    },
-    {
-      "network": "Twitter",
-      "username": "koolzero11",
-      "url": "https://twitter.com/koolzero11"
     }
   ]
 }
