@@ -12,6 +12,7 @@ Please click the link below to view our extensively documented financial exchang
 
 [Financial Exchange Public Website](https://ud-cps491-24s-team.github.io/Team02-FinancialExchange-Public/)
 
+[//]: # (
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -71,3 +72,4 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+)
