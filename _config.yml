@@ -606,4 +606,3 @@ jsonresume:
 # If you are using the GitHub API, you can set your GitHub PAT token here.
 # This is required for the GitHub API to work properly.
 
-github_token: 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 # your GitHub PAT token
