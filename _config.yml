@@ -17,7 +17,7 @@ keywords: software-developer, jekyll, jekyll-theme, academic-website, portfolio-
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon-32x32.png # 💻 mastersj5.github.io\assets\img\mstile-150x150.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 url: https://mastersj5.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -170,8 +170,6 @@ external_sources:
 
 collections:
   news:
-    defaults:
-      layout: post
     output: true
     permalink: /news/:path/
   projects:
@@ -255,6 +253,7 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+      layout: "post"
 
 sass:
   style: compressed
