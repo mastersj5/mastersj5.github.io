@@ -20,7 +20,7 @@ horizontal: false
   {% assign categorized_projects = site.projects | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Select the specific project -->
-  {% assign selected_projects = sorted_projects | where: "title", "Financial Exchange" %}
+  {% assign selected_projects = sorted_projects | where: "title", "Iceberg - Financial Exchange" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
