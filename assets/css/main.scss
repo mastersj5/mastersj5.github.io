@@ -24,17 +24,3 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
-/* navigation bar */
-#navbar {
-  background-color: var(--global-bg-color);
-  transition: background-color 0.25s ease;
-
-  .nav-link,
-  .navbar-brand {
-    color: var(--global-text-color);
-  }
-  /* Add the rule to bold the name */
-  .navbar-brand span.font-weight-bold { // or change to span.my-bold-name if you've added that class
-    font-weight: bold !important; // Add !important for higher specificity
-  }
-}

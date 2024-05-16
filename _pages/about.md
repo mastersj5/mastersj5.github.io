@@ -25,11 +25,7 @@ I grew up in Chagrin Falls, OH, attending Kenston Schools and moved down to Colu
 
 I am now graduated from the University of Dayton and I am eager to jump into the world of software development with the skills that I developed during my time in and out of school.
 
-Feel free to check out some of my projects/experiences on this website, on my LinkedIn, and on my GitHub below:
-
-[LinkedIn](https://www.linkedin.com/in/joshua-masters-75609b238/)
-
-[GitHub](https://github.com/mastersj5)
+> Feel free to check out some of my projects/experiences on this [website](https://mastersj5.github.io/cv):iphone:, on my [LinkedIn](https://www.linkedin.com/in/joshua-masters-75609b238/) :page_facing_up:, and on my [GitHub](https://github.com/mastersj5) :desktop_computer:.
 
 
 <!---

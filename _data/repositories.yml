@@ -2,6 +2,15 @@ github_users:
   - mastersj5
 
 github_repos:
-  - mastersj5/mastersj5.github.io
-  - Financial-Exchange/Financial-Exchange.github.io
-
+  - name: mastersj5/mastersj5.github.io
+    private: false
+  - name: Financial-Exchange/Financial-Exchange.github.io
+    private: false
+  - name: mastersj5/fake-news-detection
+    private: false
+  - name: mastersj5/Twitter-API-Experimentation
+    private: false
+  - name: mastersj5/mastersj5
+    private: false
+  - name: mastersj5/github-readme-stats
+    private: false
