@@ -97,7 +97,45 @@
       "endDate": "Today",
       "summary": "Provided technical support for ODOT's Civil Rights & Labor Construction Contracting System, resolving user inquiries and utilizing SQL for efficient data retrieval. ",
       "highlights": ["Issue Resolution", "SQL", "Data Retrieval"]
+    },
+    {
+      "name": "Kenston Technology Department",
+      "position": "Student Technology Summer Intern",
+      "url": null,
+      "startDate": "2016-05-01",
+      "endDate": "2020-08-01",
+      "summary": "Ensured technology functionality and created an organized system to track technology assets across the Kenston school district. Excelled as a team leader, taking early responsibility and gaining trust of peers, to ensure seamless technology integration and address teacher needs.",
+      "highlights": [
+        "Managed technology inventory and resolved hardware/software issues.",
+        "Led a team to document, update, and clean tech equipment, setup networking hardware, and handle teacher requests."
+      ]
+    },
+    {
+      "name": "Planet Fitness",
+      "position": "Front Desk Team Member",
+      "url": "https://www.planetfitness.com/",
+      "startDate": "2023-06-01",
+      "endDate": "2023-08-01",
+      "summary": "Independently managed front desk operations during overnight shifts, providing excellent customer service, assisting with check-ins and memberships, and ensuring a clean environment.",
+      "highlights": [
+        "Handled member interactions, facility maintenance, and administrative tasks.",
+        "Provided customer service, including check-ins, membership inquiries, and new member sign-ups."
+      ]
+    },
+    {
+      "name": "The Country Club at Muirfield Village",
+      "position": "Server",
+      "url": "https://muirfieldcc.com/",
+      "startDate": "2021-05-01",
+      "endDate": "2022-08-01",
+      "summary": "Efficiently served customers in a fast-paced environment, communicated effectively between customers, kitchen, and management, and adapted to various roles as needed.",
+      "highlights": [
+        "Communicated customer requests and feedback to kitchen and managers.",
+        "Adapted to fast-paced service, efficiently handling orders and resolving issues.",
+        "Worked collaboratively with team members to ensure customer satisfaction."
+      ]
     }
+
   ],
   "volunteer": [
     {
