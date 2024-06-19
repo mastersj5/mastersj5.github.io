@@ -6,6 +6,7 @@ img: assets/img/finexchlanding.png
 importance: 1
 category: work
 related_publications: false
+giscus_comments: true
 ---
 
 ### Iceberg Landing Page

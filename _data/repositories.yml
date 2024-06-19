@@ -10,3 +10,5 @@ github_repos:
     private: false
   - name: mastersj5/Twitter-API-Experimentation
     private: false
+  - name: mastersj5/pong-ai-test
+    private: false

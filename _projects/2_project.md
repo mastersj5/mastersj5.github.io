@@ -1,81 +1,67 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Pong AI Test
+description: An exploration of AI in game development through the classic Pong game
+img: assets/img/pongbasic.png
 importance: 2
-category: work
+category: fun
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Project Overview (WIP)
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Pong AI Test is a project where I explored the use of Artificial Intelligence in game development. I implemented an AI player in the classic game of Pong, testing different AI strategies and learning methods.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<img src="/assets/img/pongbasic.png" alt="Pong AI" width="400">
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## Basic Game Development and Functionality
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Before diving into the AI implementation, let's discuss the basic development and functionality of the Pong game.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+Pong is a classic arcade game, simulating table tennis. Each player controls a paddle in the game by dragging it vertically across the screen's left or right side. Players use their paddles to strike the ball back and forth.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+The game was developed using JavaScript and HTML5 Canvas. JavaScript was used for the game logic, such as moving the paddles, bouncing the ball off the paddles, and keeping score. HTML5 Canvas was used for rendering the game elements on the screen.
 
-{% raw %}
+### Game Elements
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+The game consists of three main elements: the ball, the player's paddle, and the AI's paddle. Each of these elements was created as an object with properties such as position, size, and color.
 
-{% endraw %}
+### Game Logic
+
+The game starts with the ball at the center of the screen. The ball moves in a random direction, and its speed increases slightly each time it hits a paddle. If the ball hits the left or right edge of the screen, the other player scores a point, and the ball is reset to the center.
+
+The player's paddle can be moved up and down by pressing the up and down arrow keys. The AI's paddle was initially programmed to follow the ball's y-position, providing a challenging opponent.
+
+### Scoring System
+
+The game keeps track of the score, which is displayed at the top of the screen. The first player to reach a predetermined number of points wins the game.
+
+With the basic game developed and functional, the next step was to implement an AI player to provide a challenging and engaging gameplay experience.
+
+## AI Implementation
+
+In this section, you can talk about how you implemented the AI in the Pong game. Discuss the strategies you used, the challenges you faced, and the solutions you came up with.
+
+### Strategy 1
+
+Talk about the first strategy you used for the AI. Include any relevant code snippets or diagrams.
+
+### Strategy 2
+
+Talk about the second strategy you used for the AI. Include any relevant code snippets or diagrams.
+
+## Results
+
+Discuss the results of your AI implementation. How well did the AI play the game? What did you learn from this project?
+
+<!-- ![Pong AI Results](assets/img/pongResults.png) -->
+
+## Future Work
+
+Discuss any future work you plan to do based on this project. Are there any other AI strategies you want to try? Any improvements you want to make to the current AI?
+
+## Conclusion
+
+Wrap up the project with a conclusion. What did you take away from this project? How has it contributed to your understanding of AI in game development?
+
+Feel free to leave a comment below if you have any questions or feedback on the project!
