@@ -6,10 +6,10 @@
     "email": "masters.josh2019@gmail.com",
     "phone": "(440) 318-5493",
     "url": "https://mastersj5.github.io/",
-    "summary": "Recent Computer Science graduate seeking an entry-level, full-stack software development role with a focus on web applications.",
+    "summary": "Recent Computer Science graduate with a passion for AI and web development. Proven experience in building full-stack applications and machine learning models. Seeking a challenging software development role where I can apply my skills to solve complex problems and drive innovation.",
     "location": {
-      "address": "605 Alberta St",
-      "postalCode": "OH 45409",
+      "address": "",
+      "postalCode": "OH 45419",
       "city": "Dayton",
       "countryCode": "US",
       "region": "Ohio"
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "joshua-masters-75609b238",
-        "url": "https://www.linkedin.com/in/joshua-masters-75609b238/"
+        "username": "joshua-i-masters",
+        "url": "https://www.linkedin.com/in/joshua-i-masters/"
       },
       {
           "network": "GitHub",
@@ -46,7 +46,7 @@
         "summary": "Developed a P2P messenger application from the ground up on a team of four.",
         "highlights": ["NodeJS", "Express", "SocketIO", "MongoDB", "Heroku", "Git", "GitHub", "AGILE/SCRUM", "JIRA"],
         "startDate": "2023-09-01",
-        "endDate": "2023-05-01",
+        "endDate": "2023-12-01",
         "url": "https://horizon-messenger-00d0292d47c0.herokuapp.com"
     },
     {
@@ -91,12 +91,12 @@
   "work": [
     {
       "name": "Ohio Department of Transportation",
-      "position": "Hybrid Telework College Intern",
+      "position": "College Intern",
       "url": "https://www.transportation.ohio.gov",
       "startDate": "2023-06-20",
-      "endDate": "Today",
+      "endDate": "2024-08-09",
       "summary": "Provided technical support for ODOT's Civil Rights & Labor Construction Contracting System, resolving user inquiries and utilizing SQL for efficient data retrieval. ",
-      "highlights": ["Issue Resolution", "SQL", "Data Retrieval"]
+      "highlights": ["Issue Resolution", "Customer Service", "SQL", "Data Retrieval"]
     },
     {
       "name": "Kenston Technology Department",
@@ -205,7 +205,7 @@
         "SQL",
         "JavaScript",
         "C++",
-        "HTML",
+        "HTML/CSS",
         "LISP"
       ]
     },
@@ -235,20 +235,30 @@
         "Mermaid",
         "PlantUML",
         "Markdown",
-        "Draw.IO"
+        "Draw.IO",
+        "SSMS",
+        "PyCharm",
+        "Visual Studio Code",
+        "Eclipse"
       ]
     },
     {
       "name": "Other",
       "keywords": [
-        "Python Libraries"
+        "Python Libraries",
+        "Kafka",
+        "AGILE/SCRUM",
+        "Spring",
+        "APIs",
+        "Jupyter Notebook",
+        "TensorFlow",
+        "GameMaker Studio 2"
       ]
     },
     {
       "name": "Planning to Learn",
       "keywords": [
         "Flask",
-        "CSS (Website Building)",
         "C#",
         "GoDot"
       ]
@@ -298,7 +308,27 @@
   ],
   "references": [
     {
-      "name": "Professor Nicholas Stiffler",
+      "name": "David Walker",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Accountability Manager in ODI Department at Ohio Department of Transportation."
+    },
+    {
+      "name": "LinkedIn",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "https://www.linkedin.com/in/davidwalker1/"
+    },
+    {
+      "name": "John Molnar",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Technology Director, in Technology Department at Kenston Technology Office."
+    },
+    {
+      "name": "Kenston Staff Directory",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "https://kenstonlocal.org/staff/john-molnar/"
+    },
+    {
+      "name": "Nicholas Stiffler",
       "icon": "fa-solid fa-laptop",
       "reference": "Instructor and Postdoctoral Researcher at the University of Dayton."
     },
