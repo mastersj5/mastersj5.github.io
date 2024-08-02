@@ -1,0 +1,15 @@
+Python, Java, SQL, JavaScript, C++, HTML/CSS, LISP, React, Express, Socket.IO, Node.js, MongoDB, Git, GitHub, Jira, Docker, Heroku, PlantUML, Markdown, Draw.io, SSMS, PyCharm, Visual Studio Code, Eclipse, Mermaid, Python Libraries, Kafka, AGILE/SCRUM, Spring, APIs, Jupyter Notebook, TensorFlow, GameMaker Studio 2, Flask, C#, GoDot, Data Analysis, Hardware (PC Building, Troubleshooting), Teamwork & Communication, Customer Support (Tech Support)
+
+Programming Languages: Python, Java, SQL, JavaScript, C++, HTML/CSS, LISP
+
+Web Development: React, Express, Socket.IO, Node.js
+
+Databases: MongoDB
+
+Tools: Git, GitHub, Jira, Docker, Heroku, PlantUML, Markdown, Draw.io, SSMS, PyCharm, Visual Studio Code, Eclipse, Mermaid
+
+Other: Python Libraries, Kafka, AGILE/SCRUM, Spring, APIs, Jupyter Notebook, TensorFlow, GameMaker Studio 2
+
+Planning to Learn: Flask, C#, GoDot
+
+Additional Skills: Data Analysis, Hardware (PC Building, Troubleshooting), Teamwork & Communication, Customer Support (Tech Support)
