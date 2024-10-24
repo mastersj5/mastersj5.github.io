@@ -6,7 +6,7 @@ subtitle: Welcome to my portfolio website!
 favicon: /assets/img/favicon.ico
 profile:
   align: center
-  image: daytonheadshot.jpg
+  image: pfp.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>"Fear is a friend who's misunderstood."</p>

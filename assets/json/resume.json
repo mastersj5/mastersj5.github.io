@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Joshua Masters",
-    "label": "Junior Software Developer",
+    "label": "Software Engineer",
     "image": "",
     "email": "masters.josh2019@gmail.com",
     "phone": "(440) 318-5493",
@@ -258,6 +258,8 @@
     {
       "name": "Planning to Learn",
       "keywords": [
+        "TypeScript",
+        "Angular",
         "Flask",
         "C#",
         "GoDot"
