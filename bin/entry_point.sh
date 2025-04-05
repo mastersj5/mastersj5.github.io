@@ -12,15 +12,12 @@ while true; do
  
     echo "Change detected to $CONFIG_FILE, restarting Jekyll"
 
-    jekyll_pid=$(pgrep -f jekyll)
+    jekyll_pid=$(pgrep -f "jekyll serve")
 
     # Check if jekyll_pid is not empty before killing
     if [ -n "$jekyll_pid" ]; then
       kill -KILL $jekyll_pid
     fi
-
-    /bin/bash -c "rm -f Gemfile.lock && exec jekyll serve --watch --port=8080 --host=0.0.0.0 --livereload --verbose --trace --force_polling"&
-
   fi
 
 done

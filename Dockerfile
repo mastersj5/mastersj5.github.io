@@ -1,7 +1,7 @@
 FROM ubuntu:latest
 ENV DEBIAN_FRONTEND noninteractive
 
-Label MAINTAINER Amir Pourmand
+LABEL MAINTAINER Amir Pourmand
 
 RUN apt-get update -y && apt-get install -y --no-install-recommends \
     locales \
@@ -31,6 +31,8 @@ RUN mkdir /srv/jekyll
 ADD Gemfile /srv/jekyll
 
 WORKDIR /srv/jekyll
+
+RUN apt-get update -y && apt-get install -y --no-install-recommends build-essential libv8-dev nodejs npm
 
 RUN bundle install --no-cache
 # && rm -rf /var/lib/gems/3.1.0/cache
