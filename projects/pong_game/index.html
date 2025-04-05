@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pong AI Test</title>
+    <style>
+        /* CSS will go here */
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden; /* Prevents scrollbars from appearing */
+        }
+        #pongCanvas {
+            background: #000;
+            display: block; /* Removes the line break on top of the canvas */
+        }
+    </style>
+</head>
+<body>
+    <canvas id="pongCanvas"></canvas>
+    <script src="pong.js"></script>
+    <script>
+        const canvas = document.getElementById('pongCanvas');
+        function resizeCanvas() {
+            canvas.width = window.innerWidth;
+            canvas.height = window.innerHeight;
+        }
+        window.addEventListener('resize', resizeCanvas);
+        resizeCanvas(); // initial resize
+    </script>
+</body>
+</html>
