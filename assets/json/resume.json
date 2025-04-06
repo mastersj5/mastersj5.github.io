@@ -6,7 +6,7 @@
     "email": "masters.josh2019@gmail.com",
     "phone": "(440) 318-5493",
     "url": "https://mastersj5.github.io/",
-    "summary": "Recent Computer Science graduate with a passion for AI and web development. Proven experience in building full-stack applications and machine learning models. Seeking a challenging software development role where I can apply my skills to solve complex problems and drive innovation.",
+    "summary": "Software Engineer at Altamira Technologies Corporation, contributing to the development and maintenance of software solutions. Passionate about AI and web development, with experience in building full-stack applications and machine learning models.",
     "location": {
       "address": "",
       "postalCode": "OH 45419",
@@ -89,6 +89,19 @@
     }
   ],
   "work": [
+    {
+      "name": "Altamira Technologies Corporation",
+      "position": "Software Engineer",
+      "url": "https://altamiracorp.com/",
+      "startDate": "2024-11-01",
+      "endDate": "Present",
+      "summary": "Developing and maintaining software solutions at Altamira Technologies Corporation.",
+      "highlights": [
+        "Software Development",
+        "Maintenance",
+        "Problem Solving"
+      ]
+    },
     {
       "name": "Ohio Department of Transportation",
       "position": "College Intern",

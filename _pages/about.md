@@ -17,13 +17,15 @@ selected_papers: false  # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My name is Joshua Masters, I am a recent Computer Science Graduate who is seeking a software developer role in tech or biomedical industries. I have primary experience in web application development that were developed with AGILE/SCRUM methodoligies along with Git and Jira tools to ensure efficient sprint cycles.
+My name is Joshua Masters, I am a Software Engineer with a passion for creating intuitive software for the greater good. I have primary experience in web application development that was developed with AGILE/SCRUM methodoligies along with Git and Jira tools to ensure efficient sprint cycles.
 
 When I am not strengthening my career skills, I spend my free time playing music in the form of voice, guitar, and piano. I have plenty of fun facts from my ability to solve a rubik's cube in under two minutes to my love of animals that stemmed from raising bunnies in 4-H. 
 
 I grew up in Chagrin Falls, OH, attending Kenston Schools and moved down to Columbus when I graduated high school right before heading to Dayton for college at the University of Dayton. 
 
-I am now graduated from the University of Dayton and I am eager to jump into the world of software development with the skills that I developed during my time in and out of school.
+Next, I graduated from the University of Dayton with a degree in Computer Science and a Concentration in AI/ML + Data Science. Immediately, I jumped into the world of software development with the skills that I developed during my time in and out of school. 
+
+That hunger to learn led me to where I am today and I cannot wait to keep building and exploring alongside other passionate individuals throughout the world.
 
 > Feel free to check out some of my projects/experiences on this [website](https://mastersj5.github.io/cv):iphone:, on my [LinkedIn](https://www.linkedin.com/in/joshua-masters-75609b238/) :page_facing_up:, and on my [GitHub](https://github.com/mastersj5) :desktop_computer:.
 
