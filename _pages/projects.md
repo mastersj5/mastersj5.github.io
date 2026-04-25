@@ -14,7 +14,7 @@ horizontal: false
 {% assign selected_projects = "" | split: "" %}
 {% assign all_projects = site.projects | sort: "importance" %}
 {% assign iceberg_project = all_projects | where: "title", "Iceberg - Financial Exchange" | first %}
-{% assign pong_project = all_projects | where: "title", "Pong AI Test" | first %}
+{% assign pong_project = all_projects | where: "title", "Pong AI Test - Neon Edition" | first %}
 {% assign selected_projects = selected_projects | push: iceberg_project %}
 {% assign selected_projects = selected_projects | push: pong_project %}
 

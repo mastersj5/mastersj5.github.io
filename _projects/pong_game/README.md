@@ -1,59 +1,45 @@
-# 🏓 pong-ai-test 🤖
+# 🏓 pong-ai-test - Neon Edition 🤖
 
-Welcome to pong-ai-test, a modern twist on the classic Pong game featuring dynamic resizing, sound effects, multiple game modes, and an AI opponent with adjustable difficulty. Initially developed with assistance from GitHub Copilot, this project now showcases a complete gameplay experience.
+Welcome to **pong-ai-test**, a modern 2026 twist on the classic Pong game. Initially developed as a basic AI exploration project in June 2024, it has been completely overhauled into a visually stunning "Neon Edition" featuring dynamic resizing, a robust particle engine, multiple game modes (including autoplaying AI vs AI), and an immersive Cyberpunk/Synthwave aesthetic.
 
 ## 🎮 How to Play
 
-1.  **Open the Game:** Download the project and open the `index.html` file in your web browser.
-2.  **Game Modes:**
-    * Press `M` to switch between **Two-Player** and **Player vs AI** modes. The game will reset when you switch.
-3.  **Controls:**
-    * **Left Paddle (Player 1):** Use `W` (up) and `S` (down) keys. (Always player-controlled).
-    * **Right Paddle (Player 2 / AI):**
-        * In **Two-Player** mode: Use `ArrowUp` (up) and `ArrowDown` (down) keys.
-        * In **Player vs AI** mode: The AI controls this paddle.
-4.  **Gameplay:**
-    * Hit the ball with your paddle to send it to the opponent's side.
-    * Score a point if the ball goes past your opponent's paddle.
-    * The first player to reach **10 points** wins!
-5.  **In-Game Options:**
-    * **Pause/Resume:** Press `P` to pause or resume the game.
-    * **Change AI Difficulty:** In **Player vs AI** mode, press `D` to cycle through difficulty levels: Easy, Medium, Hard, Impossible.
-    * **Restart:** After the game ends ("Game Over"), press `R` to restart in the current mode.
+1. **Open the Game:** Download the project and open the `index.html` file in your web browser, or navigate to [my portfolio page](https://mastersj5.github.io/projects/2_project/) to play it directly in-browser.
+2. **Game Modes:**
+   Use the top-right UI buttons to cycle through the modes:
+   * **Player vs AI:** You against the computer.
+   * **Two-Player:** Grab a friend and share the keyboard.
+   * **AI vs AI:** Watch two computer players battle it out (perfect for background ambiance).
+3. **Controls:**
+   * **Left Paddle (Player 1):** Use `W` (up) and `S` (down) keys.
+   * **Right Paddle (Player 2):** Use `ArrowUp` (up) and `ArrowDown` (down) keys.
+   * **Force Re-serve:** Press `Space` if the ball gets stuck or you want to restart the volley.
+   * **Pause/Resume:** Press `P` to pause or resume the game.
+   * **Mute Audio:** Press `M` to toggle sound effects.
+   * **Cycle Difficulty:** Press `D` to change the AI's skill level (Easy, Medium, Hard, Impossible).
+4. **Expandable Menu:**
+   * Click the "Controls & Hotkeys" menu in the bottom-left corner to review the inputs at any time.
 
-## 🕹️ Game Mechanics
+## 🕹️ Modern Mechanics & Visuals
 
-* **Two Modes:** Play against another human or challenge the AI.
-* **AI Difficulty:** Four levels (Easy, Medium, Hard, Impossible) affect the AI's speed and accuracy.
-* **Scoring:** First to 10 points wins.
-* **Dynamic Resizing:** Game elements adapt fluidly to the browser window size.
-* **Physics:** Ball bounce angle depends on where it hits the paddle.
-* **Visuals & Sound:** Includes a center net, scoring sound effects, paddle hit sounds, and a star animation on score.
-* **Pause/Reset:** Control the game flow with pause and post-game reset options.
+* **Three Modes:** Play against a human, challenge the AI, or let the AI play itself.
+* **Cyberpunk Aesthetic:** Toggle between the classic black-and-white look and the modern "Neon" theme featuring glowing paddles, motion blur trails, and a dynamic spark particle system.
+* **AI Difficulty:** Four levels (Easy, Medium, Hard, Impossible) scale the AI's speed and target accuracy.
+* **Speed Ramping:** Enable the "Ramp Speed" toggle to have the ball gradually accelerate during long volleys.
+* **Anti-Stuck Physics:** Custom collision logic prevents the ball from getting trapped in infinite vertical loops by enforcing a minimum horizontal velocity.
+* **Dynamic Resizing:** Game elements scale fluidly to any browser window size or iframe.
 
 ## 💻 Development
 
-This game was developed using JavaScript and the HTML5 Canvas API for rendering. Initial scaffolding and some features were guided by GitHub Copilot suggestions.
+This game is built entirely with vanilla **JavaScript**, **HTML**, and **CSS** using the **HTML5 Canvas API** for high-performance rendering.
 
 Key development aspects include:
-* **Game Loop:** Managed using `requestAnimationFrame`.
-* **State Management:** Tracking game state (`playing`, `paused`, `gameOver`), game mode, scores, and difficulty.
-* **Input Handling:** Detecting key presses for paddle movement and game controls.
-* **Collision Detection:** Calculating ball collisions with paddles and walls.
-* **AI Logic:** The AI uses a reactive strategy (tracking the ball's Y position) modified by the selected difficulty level through speed scaling and random error margins.
-* **Dynamic Scaling:** Adjusting element sizes, positions, and speeds on window resize.
-
-## 🚀 Future Plans
-
-While the core game is complete, potential future enhancements include:
-* Adding a visual start/menu screen.
-* Implementing a Start button instead of auto-start.
-* Exploring more advanced AI techniques (e.g., prediction).
-* Adding more sound effects or visual polish.
-* Optional gameplay variations (e.g., ball speed increasing over time).
+* **Game Loop:** Managed using `requestAnimationFrame` for smooth rendering.
+* **State Management:** Tracking game states (`start`, `playing`, `paused`, `gameOver`), UI themes, and difficulty settings dynamically.
+* **Particle Engine:** A custom, physics-based spark system for visual feedback on paddle hits and scores.
+* **AI Logic:** The AI uses a reactive tracking strategy modified by difficulty parameters (Speed Multiplier and Error Margin).
+* **Modern UI:** CSS-driven overlays and interactive menus that sit cleanly above the canvas without interfering with gameplay.
 
 ## 🎉 Acknowledgements
 
-A big thank you to GitHub Copilot for assisting in the initial development stages of this game!
-
-Enjoy playing pong-ai-test! 🎉
+A big thank you to GitHub Copilot for assisting in the initial 2024 development stages, and to the continuous iterative process that brought this game into its modern 2026 form! Enjoy playing!

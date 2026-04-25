@@ -9,5 +9,6 @@ services:
       - 35729:35729
     volumes:
       - .:/srv/jekyll
+      - ./bin/entry_point.sh:/tmp/entry_point.sh
     environment:
       - JEKYLL_ENV=development
